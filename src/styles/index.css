@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.ligth {
+height: 30px;
+ width: 30px;
+ border-radius: 100%
+ 
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
